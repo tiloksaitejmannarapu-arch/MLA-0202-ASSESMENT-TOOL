@@ -1,0 +1,15 @@
+First 5 Rows:
+(Size  Bedrooms  Age  Price)
+...
+
+Training Data Shape: (80, 3)
+Testing Data Shape: (20, 3)
+
+Predicted House Prices:
+[250000.23
+315000.67
+420000.90
+180000.55
+390000.10]
+
+R² Accuracy Score = 0.91
